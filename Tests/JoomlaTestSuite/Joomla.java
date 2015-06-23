@@ -44,7 +44,6 @@ public class Joomla {
 		
 		}
 
-
 	/*@AfterClass
 	public void tear_down() {
 		
