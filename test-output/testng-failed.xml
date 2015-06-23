@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="JoomlaTestSuite.Joomla">
+        <methods>
+          <include name="TC001_Verify_HomePage"/>
+          <include name="after_test_case_execution"/>
+          <include name="set_up"/>
+        </methods>
+      </class> <!-- JoomlaTestSuite.Joomla -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

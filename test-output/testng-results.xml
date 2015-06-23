@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47991" started-at="2015-06-23T03:44:52Z" finished-at="2015-06-23T03:45:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47991" started-at="2015-06-23T03:44:52Z" finished-at="2015-06-23T03:45:40Z">
+      <class name="JoomlaTestSuite.Joomla">
+        <test-method status="PASS" signature="set_up()[pri:0, instance:JoomlaTestSuite.Joomla@87c06e0]" name="set_up" is-config="true" duration-ms="38612" started-at="2015-06-23T10:44:52Z" finished-at="2015-06-23T10:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set_up -->
+        <test-method status="PASS" signature="TC001_Verify_HomePage()[pri:0, instance:JoomlaTestSuite.Joomla@87c06e0]" name="TC001_Verify_HomePage" duration-ms="5049" started-at="2015-06-23T10:45:31Z" description="Verify control on Home page" finished-at="2015-06-23T10:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001_Verify_HomePage -->
+        <test-method status="PASS" signature="after_test_case_execution()[pri:0, instance:JoomlaTestSuite.Joomla@87c06e0]" name="after_test_case_execution" is-config="true" duration-ms="4320" started-at="2015-06-23T10:45:36Z" finished-at="2015-06-23T10:45:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_test_case_execution -->
+      </class> <!-- JoomlaTestSuite.Joomla -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
