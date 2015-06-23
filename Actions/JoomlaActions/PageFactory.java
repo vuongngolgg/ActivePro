@@ -1,4 +1,4 @@
-/*package JoomlaActions;
+package JoomlaActions;
 
 public class PageFactory {
 
@@ -7,6 +7,8 @@ public class PageFactory {
 	{
 		return LoginPage.getLoginPage();
 	}
+}
+/*
 	// Get Home Page
 	public static HomePage HomePage(){
 		
